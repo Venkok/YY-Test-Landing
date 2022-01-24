@@ -1,0 +1,21 @@
+{
+  "LOGO": "ЛОГО",
+  "Sign Up": "Зареєструватися",
+  "Hero": "Верхняя секция",
+  "Text Block": "Текстовый блок",
+  "Carousel": "Карусель",
+  "Subtitle": "Підзаголовок",
+  "Heading": "Заголовок",
+  "The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous/next controls and indicators.": "Карусель — це слайд-шоу для циклічного перегляду серії вмісту, створеного за допомогою 3D-перетворень CSS і трохи JavaScript. Він працює з серією зображень, текстом або спеціальною розміткою. Він також включає підтримку попередніх/наступних елементів керування та індикаторів.",
+  "Yaroslav Yakovenko:": "Ярослав Яковенко:",
+  "en": "англ",
+  "ua": "укр",
+  "Name": "Ім'я",
+  "Surname": "Прізвище",
+  "Phone": "Телефон",
+  "Please provide your name.": "Будь ласка, вкажіть своє ім’я.",
+  "Please provide your surname.": "Будь ласка, вкажіть своє прізвище.",
+  "Please provide your phone number.": "Будь ласка, вкажіть ваш телефон.",
+  "Please provide your email.": "Будь ласка, вкажіть ваш email.",
+  "Your account has been successfully created!": "Ваш обліковий запис успішно створено!"
+}
